@@ -1,2 +1,3 @@
 # i_am_learning_cpp
- i am learning c++
+ 
+It is a repository created to show you what I learned in my C++ course from start to finish.
